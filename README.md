@@ -193,7 +193,7 @@ Network Security Groups were configured to restrict traffic between application 
 
 ## Database Server NSG Rules
 
-![Database Server NSG Rules](screenshots/azure/db-server-nsg-rules.png)
+![Database Server NSG Rules](screenshots/azure/database-server-nsg-rules.png)
 
 Database access was restricted to the Web Server private IP only.
 
